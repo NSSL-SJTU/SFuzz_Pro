@@ -1,10 +1,13 @@
-# SFuzz
-Implementation(Source code) of paper: 
+# SFuzz++
+This repository contains an extended implementation based on the original paper:
 
 **SFuzz: Slice-based Fuzzing for Real-Time Operating Systems.**
 *In Proceedings of the 29th ACM Conference on Computer and Communications Security (ACM CCS 2022).*
 
-## Overview of SFuzz
+> **Note:**  
+> The current workflow and Docker environment in this repository are the SFuzz implementation. We have already updated the relevant experimental result figures and will release our newly developed features and code extensions in the near future.
+
+## Overview of SFuzz++
 <img src="figs/overview.png" width="100%">
 
 ## Setup
